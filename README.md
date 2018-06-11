@@ -24,3 +24,9 @@ The RFM model is quite useful model in retail customer segmentation where only t
  
 
 A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer. 
+
+### Segmentation with K-means clustering:    
+
+- Initially, the data is subject to important stages in an analytics pipeline: exploratory analysis, preprocessing, feature engineering and standardizaton.    
+- Then, the unsupervised classification technique, K-means clustering algorithm, is used to determine the ideal segments of customers. Silhouette analysis and related cluster visualizations are leveraged to deduce the optimum value of "K" (number of clusters) in the algorithm.       
+- The observations from the results are elaborately discussed before reaching the conclusion from the business perspective.
